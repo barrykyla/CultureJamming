@@ -1,0 +1,51 @@
+p {
+	color: rgb(157,198,158);
+	background-color: beige;
+	padding: 10px 20px 40px 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+					
+	}
+
+body {
+		background-image: url(cacti.jpg);
+		}
+
+.headers{
+		color: rgb(229,195,205);
+		text-align: center;
+		background-color: beige;
+		padding: 4px;
+
+			}
+
+.content {
+			width: 800px;
+			margin: 0 auto;
+			background-color: beige;
+			font-family: "Lato", light;
+
+				}
+h1, h2, h3 {
+	text-transform: uppercase; 
+}
+
+img, iframe {
+		display: block;
+		margin: 5px auto;
+		padding: 40px;
+			}
+
+
+a{
+	color: rgb(190,231,150);
+		}
+
+table,td{
+	border: 2px dotted rgb(157,198,158);
+
+		margin: 5px auto;
+	} 
+tr,td{
+	padding:8px;
+}
